@@ -14,6 +14,5 @@ Pour l'utilisation en local :
 
 ``` git clone https://github.com/aurelienvvv/itunes-searcher ```
 
---- 
 
-À bientôt ! :v:
+Merci et à bientôt ! :v:
