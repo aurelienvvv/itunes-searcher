@@ -2,7 +2,7 @@
 
 ## Description 
  
-Petite interface de recherche réalisé avec iTunes app API ['https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/'] ici 
+Petite interface de recherche réalisé avec iTunes app API [Contribution guidelines for this project](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
 
 ---
 
