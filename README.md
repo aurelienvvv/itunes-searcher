@@ -16,4 +16,4 @@ Pour l'utilisation en local :
 
 --- 
 
-À bientôt !
+À bientôt ! :v
