@@ -18,7 +18,7 @@ new Vue({
   data() {
     return {
       searchs: "",
-      result: []
+      result: ""
     };
   },
   computed: {
