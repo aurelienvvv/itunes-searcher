@@ -1,4 +1,4 @@
-# iTunes searcher :v:
+# iTunes searcher
 
 ## Demo :
 
