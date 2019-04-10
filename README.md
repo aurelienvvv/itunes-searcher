@@ -2,28 +2,18 @@
 
 ## Description 
  
-Petite interface de recherche réalisé avec iTunes app API [Contribution guidelines for this project](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
+Petite interface de recherche réalisé avec [iTunes search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) sur le frameworks Vue.js
 
 ---
 
-Production link : https://mon-potager-production.herokuapp.com/.
+Demo : http://aurelienv.fr/itunessearch/
 
 ---
 
-Ruby version : 2.5.1
+Pour l'utilisation en local :
 
-Rails version : 5.2.2
+``` https://github.com/aurelienvvv/itunes-searcher ```
 
----
+--- 
 
-If you want to use the website in local :
-
-``` git clone https://github.com/Jin-12/cat_e_commerce.git ```
-
-``` bundle install ```
-
-``` rails db:create ```
-
-``` rails db:migrate ```
-
-``` rails db:seed ```
+À bientôt !
