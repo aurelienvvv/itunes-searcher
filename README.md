@@ -12,7 +12,7 @@ Demo : http://aurelienv.fr/itunessearch/
 
 Pour l'utilisation en local :
 
-``` https://github.com/aurelienvvv/itunes-searcher ```
+``` git clone https://github.com/aurelienvvv/itunes-searcher ```
 
 --- 
 
