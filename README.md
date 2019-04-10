@@ -8,7 +8,7 @@ Petite interface de recherche réalisé avec [iTunes search API](https://affilia
 
 Demo : http://aurelienv.fr/itunessearch/
 
--
+--
 
 Pour l'utilisation en local :
 
