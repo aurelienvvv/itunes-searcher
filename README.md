@@ -2,12 +2,9 @@
 
 ## Demo :
 
-
-
-
 http://aurelienv.fr/itunessearch/
 
-Merci pour ce petit test !
+Merci pour ce petit test.
 
 
 À Bientôt :relaxed:
